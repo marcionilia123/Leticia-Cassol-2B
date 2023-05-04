@@ -30,4 +30,34 @@ bory{
 .escola-imagem{
     width: 25%;
 }
+#escola{
+    background-image: -o-linear-gradient(#003532, #C2F9EB)
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-div-conteudo{
+    width: 35%;
+}
+
+
+.escola-titulo{
+    padding: 24px 0;
+}
+
+#estudante{
+    padding: 24px 0;
+}
+
+.estudante-imagem{
+    width: 160px;
+}
+
+.estudante-icone{
+    width: 24px;
+    padding: 4px 8px;
+}
 
